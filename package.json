@@ -3,6 +3,22 @@
     "displayName": "Dark Space",
     "description": "Dark Space",
     "version": "0.0.1",
+    "publisher": "EdmondAvetisyan",
+    "repository": {
+        "type": "gir",
+        "url": "https://github.com/edavetisyan/dark-space"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "space",
+        "dark space",
+        "space theme",
+        "edmondavetisyan",
+        "EdmondAvetisyan",
+        "Edmond Avetisyan"
+
+    ],
     "engines": {
         "vscode": "^1.63.0"
     },
