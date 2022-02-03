@@ -34,7 +34,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#FFE9FF"
+				"foreground": "#F1FDFF"
 			}
 		},
 		{
@@ -64,7 +64,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#f38282",
 			}
 		},
 		{
@@ -72,19 +72,18 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
 				"meta.tag",
-				"punctuation.definition.tag",
-				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
+				// "punctuation.definition.tag",
+				// "punctuation.separator.inheritance.php",
+				// "punctuation.definition.tag.html",
+				// "punctuation.definition.tag.begin.html",
+				// "punctuation.definition.tag.end.html",
+				// "punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#7DD17A"
+				"foreground": "#ff7728",
 			}
 		},
 		{
@@ -105,10 +104,11 @@
 				"meta.function-call",
 				"variable.function",
 				"support.function",
-				"keyword.other.special-method"
+				"keyword.other.special-method",
+				
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#f3f359",
 			}
 		},
 		{
@@ -143,7 +143,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#FFAF4C"
 			}
 		},
 		{
@@ -155,10 +155,11 @@
 				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+				"punctuation",
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#C4F9FF"
 			}
 		},
 		{
@@ -247,7 +248,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#f9f29d"
 			}
 		},
 		{
